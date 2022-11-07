@@ -1,0 +1,12 @@
+.home-wrapper {
+    display: flex;
+    flex-direction: column;
+    ;
+    align-items: center;
+    width: 100%;
+    background-color: #c6c0c0;
+}
+
+.add-post-event-button {
+    margin-top: 12px;
+}
