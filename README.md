@@ -1,1 +1,1 @@
-On this hakaton,my team and I,developed a web application about ecology in the time frame of 24 hours.The backend is currently not in this repository,only the frontend that my teammate did on this hakaton. We managed to secure the 3rd place where 8 teams competed
+On this hakaton,my team and I,developed a web application about ecology in the time frame of 24 hours.The backend is currently not in this repository,only the frontend that my teammate and I did on this hakaton. We managed to secure the 3rd place where 8 teams competed
